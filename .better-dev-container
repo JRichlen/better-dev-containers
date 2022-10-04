@@ -1,1 +1,2 @@
-image: node:16
+image: golang:1.19.1
+verbose: true
