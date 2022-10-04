@@ -1,0 +1,3 @@
+*.exe
+better-dev-container
+**/node_modules
